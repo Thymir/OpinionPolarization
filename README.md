@@ -2,7 +2,7 @@
 
 # Considerations
 
-code/opinionPolarization.ipynb contains data processing, creation of the  opinion embedding and clustering of topics
+code/opinionPolarization.ipynb contains data processing, creation of the  opinion embedding and clustering of topics.
 
 # dataset
 
